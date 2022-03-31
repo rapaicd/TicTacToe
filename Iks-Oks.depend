@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597162923 source:c:\users\lazar\desktop\iks-oks\main.c
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+
